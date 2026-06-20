@@ -44,6 +44,3 @@ python pdf_retriever.py
 - What is the employee designation?
 - What is the salary?
 - What is the joining date?
-
-## Author
- Gopidinni Mounika 
